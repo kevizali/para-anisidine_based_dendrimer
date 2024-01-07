@@ -8,4 +8,11 @@ Abstract: An in-silico investigation of eight para-anisidine based dendritic arc
 Keywords: in-silico, quantum chemical, physico-chemical, drug-likeness, bioactivity, machine learning.
 
 # Contents
-1. 
+1. Correlation_analysis.iptnb
+2. Model_comparison.ipynb
+3. README.md
+4. combined_dataset.csv
+5. dataset_ChemSpider.csv
+6. feature-selected_database.csv
+
+
